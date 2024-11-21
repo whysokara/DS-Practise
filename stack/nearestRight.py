@@ -11,5 +11,4 @@ def finde(arr):
   return arr1
 
 
-
 finde(arr)
