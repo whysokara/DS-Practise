@@ -1,4 +1,4 @@
-def nearestGreaterS(arr):
+def NearestGreatRight(arr):
     stack = []
     ans = []
 
@@ -15,3 +15,5 @@ def nearestGreaterS(arr):
     return temp
 
 
+arr =  [1,2,1]
+print(NearestGreatRight(arr))
